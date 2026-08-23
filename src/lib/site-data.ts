@@ -287,6 +287,13 @@ export const JOURNEY = [
 
 export const TESTIMONIALS = [
   {
+    name: "Arshia Sharma",
+    role: "IBDP · Score 45/45",
+    quote:
+      "Revising past papers and having access to the right resources made a huge difference. Achieving a perfect 45/45 in the IBDP wouldn't have been possible without Ankit sir's structured guidance, constant support, and dedication. I am extremely grateful!",
+    rating: 5,
+  },
+  {
     name: "Arush Nath",
     role: "Admitted · Northwestern University",
     quote:
