@@ -287,41 +287,6 @@ export const JOURNEY = [
 
 export const TESTIMONIALS = [
   {
-    name: "Aaraynaa Lohia",
-    role: "SAT 1590 / 1600 · Physics HL 7/7",
-    quote:
-      "IVY STICK didn't just raise my score — they rebuilt my confidence. My mentor knew exactly where I struggled and how to fix it.",
-    rating: 5,
-  },
-  {
-    name: "Pragun Sharma",
-    role: "SAT 1590 / 1600 · AP Calculus BC 5/5",
-    quote:
-      "The personalized planning was unreal. Every week felt structured and purposeful. I hit my dream score two months early.",
-    rating: 5,
-  },
-  {
-    name: "Aadhyan Diwakar",
-    role: "SAT 1600 / 1600",
-    quote:
-      "Perfect score, perfect experience. The mock exams felt harder than the real thing, so test day felt easy.",
-    rating: 5,
-  },
-  {
-    name: "Meera K. (Parent)",
-    role: "Parent of IBDP Student",
-    quote:
-      "As a parent, the weekly progress reports and parent meetings gave me complete peace of mind. Truly premium mentorship.",
-    rating: 5,
-  },
-  {
-    name: "Daniyal Ahmed",
-    role: "Admitted · University of Toronto",
-    quote:
-      "From essays to interviews, they guided every step. I got into my first choice with a scholarship.",
-    rating: 5,
-  },
-  {
     name: "Arush Nath",
     role: "Admitted · Northwestern University",
     quote:
@@ -329,24 +294,31 @@ export const TESTIMONIALS = [
     rating: 5,
   },
   {
-    name: "Zohar Fateh",
-    role: "AP Physics",
+    name: "Rayhaan Malhotra",
+    role: "Admitted · Oxford University",
     quote:
-      "Thank you for teaching me AP Physics this year. I genuinely enjoyed your classes and learned a lot from the way you taught. You had a really nice way of explaining things that made difficult concepts much easier to understand. I really appreciate all the effort you put into teaching.",
-    rating: 5,
-  },
-  {
-    name: "Aarav Goel",
-    role: "AP Physics C: Mechanics · Score 5",
-    quote:
-      "I had a great experience with Ankit sir. He would always take any doubts I had and would always urge me to practice more. He also explained the concepts relevant to the questions I got wrong so beautifully that I would never get those types of questions wrong again. It won't be an exaggeration to say that I got a 5 on my Physics Mechanics AP because of him.",
+      "Thank you so much! And thank you for all of your help as well.",
     rating: 5,
   },
   {
     name: "Aarav Shrivastava",
     role: "AP Physics C: Mechanics · Score 5",
     quote:
-      "Working with you made a significant difference in how I approached AP Physics C: Mechanics. Your clear explanations, emphasis on conceptual understanding, and step-by-step problem-solving strategies helped me build confidence, especially with topics like rotational motion and energy conservation. Your guidance played a big role in helping me score a 5 on the exam.",
+      "Working with you made a significant difference in how I approached AP Physics C: Mechanics. Your clear explanations, emphasis on conceptual understanding, and step-by-step problem-solving strategies helped me build confidence, especially with topics like rotational motion and energy conservation. I really appreciated how you always made time to clarify doubts, no matter how small. Overall, your guidance played a big role in helping me score a 5 on the exam, and I am very grateful for that.",
+    rating: 5,
+  },
+  {
+    name: "Aarav Goel",
+    role: "AP Physics C: Mechanics · Score 5",
+    quote:
+      "I had a great experience with Ankit sir. He would always take any doubts I had and would always urge me to practice more. Moreover, he also explained the concepts relevant to the questions where I went wrong so beautifully that I would never get those types of questions wrong again. It won't be an exaggeration to say that I got a 5 on my physics mechanics AP because of him. Overall, he was an excellent teacher and I am extremely grateful that I was able to learn from him.",
+    rating: 5,
+  },
+  {
+    name: "Zohar Fateh",
+    role: "AP Physics · Score 3",
+    quote:
+      "I just wanted to say thank you for teaching me AP Physics this year. Even though I got a 3 on the exam, I genuinely enjoyed your classes and learned a lot from the way you taught. You had a really nice way of explaining things that made difficult concepts much easier to understand. I really appreciate all the effort you put into teaching. Thanks again, and I wish you all the best!",
     rating: 5,
   },
 ];
