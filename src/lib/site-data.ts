@@ -301,6 +301,20 @@ export const TESTIMONIALS = [
     rating: 5,
   },
   {
+    name: "Vivaan",
+    role: "Physics & Mathematics HL · Score 6/7",
+    quote:
+      "Achieving a 6/7 in both Physics and Mathematics HL was a huge milestone for me. The rigorous practice sessions, clarity in concepts, and constant encouragement from my mentor made it all possible.",
+    rating: 5,
+  },
+  {
+    name: "Kabir",
+    role: "Physics & Mathematics HL · Score 6/7",
+    quote:
+      "Getting a 6/7 in Physics and Mathematics HL gave me the confidence I needed for my college applications. The personalized guidance and resource materials were absolutely top-notch.",
+    rating: 5,
+  },
+  {
     name: "Arush Nath",
     role: "Admitted · Northwestern University",
     quote:
@@ -312,6 +326,20 @@ export const TESTIMONIALS = [
     role: "Admitted · Oxford University",
     quote:
       "Thank you so much! And thank you for all of your help as well.",
+    rating: 5,
+  },
+  {
+    name: "Aindri",
+    role: "AP Calculus AB · Score 5/5",
+    quote:
+      "The preparation for AP Calculus AB was incredibly thorough. From mock exams to concept-first learning, everything was designed to help me secure a 5/5.",
+    rating: 5,
+  },
+  {
+    name: "Ruthvi",
+    role: "AP Calculus AB · Score 5/5",
+    quote:
+      "Scoring a perfect 5/5 in AP Calculus AB was made so much easier with the structured practice and clear explanations. I highly recommend the mentorship here to any student looking to ace their APs!",
     rating: 5,
   },
   {
