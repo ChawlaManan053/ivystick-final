@@ -294,6 +294,13 @@ export const TESTIMONIALS = [
     rating: 5,
   },
   {
+    name: "Ditya Aggarwal",
+    role: "Physics HL 7/7 · IBDP Score 44/45",
+    quote:
+      "I wanted to reach out and express my heartfelt gratitude for all your guidance and support in Physics. Thanks to your teaching, I managed to score a 7/7 in Physics, and overall I achieved a 44/45 in my IBDP! I couldn't have achieved this milestone without your encouragement and clarity. Thank you so much for being such an incredible mentor.",
+    rating: 5,
+  },
+  {
     name: "Arush Nath",
     role: "Admitted · Northwestern University",
     quote:
@@ -319,6 +326,13 @@ export const TESTIMONIALS = [
     role: "AP Physics C: Mechanics · Score 5",
     quote:
       "I had a great experience with Ankit sir. He would always take any doubts I had and would always urge me to practice more. Moreover, he also explained the concepts relevant to the questions where I went wrong so beautifully that I would never get those types of questions wrong again. It won't be an exaggeration to say that I got a 5 on my physics mechanics AP because of him. Overall, he was an excellent teacher and I am extremely grateful that I was able to learn from him.",
+    rating: 5,
+  },
+  {
+    name: "Yashvi Agarwal",
+    role: "AP Physics · Score 4",
+    quote:
+      "Thank you so much sir for everything! I got a 4 on my AP Physics exam. I know I could have done better, but I'm still extremely grateful for all your help and support throughout the journey.",
     rating: 5,
   },
   {
